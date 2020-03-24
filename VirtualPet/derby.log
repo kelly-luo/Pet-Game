@@ -1,0 +1,49 @@
+Thu Oct 17 21:49:38 NZDT 2019 : Apache Derby Network Server - 10.14.2.0 - (1828579) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Thu Oct 17 21:49:39 NZDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-016d-d8e8-7f8f-0000479de68b 
+on database directory C:\Users\Kelly\OneDrive - AUT University\WorkSpaces\NetBeans\TEAM14-PetGameFINAL\VirtualPet\sample with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Users/Kelly/OneDrive%20-%20AUT%20University/Year%202/Semester%202/Software%20Construction%20(Sem%202)/Lecture%207%20-%20JDBC/Resources/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_201-b09
+user.dir=C:\Users\Kelly\OneDrive - AUT University\Year 2\Semester 2\Software Construction (Sem 2)\Lecture 7 - JDBC\Resources\db-derby-10.14.2.0-bin
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\Kelly\OneDrive - AUT University\WorkSpaces\NetBeans\TEAM14-PetGameFINAL\VirtualPet
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Oct 17 21:51:41 NZDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 848c0061-016d-d8e8-7f8f-0000479de68b 
+on database directory C:\Users\Kelly\OneDrive - AUT University\WorkSpaces\NetBeans\TEAM14-PetGameFINAL\VirtualPet\VirtualPet with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Users/Kelly/OneDrive%20-%20AUT%20University/Year%202/Semester%202/Software%20Construction%20(Sem%202)/Lecture%207%20-%20JDBC/Resources/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_201-b09
+user.dir=C:\Users\Kelly\OneDrive - AUT University\Year 2\Semester 2\Software Construction (Sem 2)\Lecture 7 - JDBC\Resources\db-derby-10.14.2.0-bin
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\Kelly\OneDrive - AUT University\WorkSpaces\NetBeans\TEAM14-PetGameFINAL\VirtualPet
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Oct 17 21:51:42 NZDT 2019:
+Shutting down instance 848c0061-016d-d8e8-7f8f-0000479de68b on database directory C:\Users\Kelly\OneDrive - AUT University\WorkSpaces\NetBeans\TEAM14-PetGameFINAL\VirtualPet\VirtualPet with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Thu Oct 17 21:51:42 NZDT 2019 Thread[DRDAConnThread_2,5,main] (DATABASE = VirtualPet), (DRDAID = {3}), Database 'VirtualPet' shutdown.
+----------------------------------------------------------------
+Thu Oct 17 21:54:55 NZDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a8604102-016d-d8e8-7f8f-0000479de68b 
+on database directory C:\Users\Kelly\OneDrive - AUT University\WorkSpaces\NetBeans\TEAM14-PetGameFINAL\VirtualPet\VirtualPet with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Users/Kelly/OneDrive%20-%20AUT%20University/Year%202/Semester%202/Software%20Construction%20(Sem%202)/Lecture%207%20-%20JDBC/Resources/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_201-b09
+user.dir=C:\Users\Kelly\OneDrive - AUT University\Year 2\Semester 2\Software Construction (Sem 2)\Lecture 7 - JDBC\Resources\db-derby-10.14.2.0-bin
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\Kelly\OneDrive - AUT University\WorkSpaces\NetBeans\TEAM14-PetGameFINAL\VirtualPet
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Oct 17 22:10:02 NZDT 2019: Shutting down Derby engine
+----------------------------------------------------------------
+Thu Oct 17 22:10:03 NZDT 2019:
+Shutting down instance a8604102-016d-d8e8-7f8f-0000479de68b on database directory C:\Users\Kelly\OneDrive - AUT University\WorkSpaces\NetBeans\TEAM14-PetGameFINAL\VirtualPet\VirtualPet with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 

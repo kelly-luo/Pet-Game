@@ -1,0 +1,30 @@
+Hi there!!
+
+I welcome you to the World of training your own Virtual Pet!!
+
+Firstly, congratulations on adopting a new pet!! 
+
+------RULES-------
+Every second that your pet will get hungrier (+1 hungry point),
+If hungry points less than 10 then +1 happy point
+If hungry points more than 10 then +1 fatigue point
+Every 9 second the pet will get older by 1
+
+You will be updated about your pets progress every 5 seconds!
+
+------WIN/LOSE------
+Win game when your pet has 50 happiness points
+Lose game when your pet has 50 fatigue points
+
+------CONTROLS-------
+1. Take them for a walk (take walk)
+2. Feed them food (feed food)
+3. Treat them for being a good girl/boy (feed treat)
+4. Pet them to show love (pet)
+5. Put them to sleep (sleep)
+6. Quit (quit)
+
+Hint: to be able to practice these amazing ideas on your pet,
+try using the key words in brackets.
+
+Good Luck training your pet! You will make the best pet owner!!

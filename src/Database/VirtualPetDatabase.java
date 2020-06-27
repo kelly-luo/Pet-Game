@@ -18,7 +18,7 @@ import java.util.logging.Logger;
  */
 public class VirtualPetDatabase {
 
-    private static final String URL = "jdbc:derby:VirtualPet; create=true";  //url of the embedded DB host
+    private static final String URL = "jdbc:derby://localhost:1527/VirtualPet; create=true";  //url of the embedded DB host
     private static final String USER_NAME = "virtualpet";  // your DB username
     private static final String PASSWORD = "virtualpetpass";   // your DB password
     
